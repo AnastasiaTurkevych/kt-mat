@@ -1,6 +1,40 @@
 .nav-wrapper {
     padding-left: 50px;
+    padding-right: 50px;
 }
 .waves-effect{
     width: 100%;
 }
+.imglogo{
+    width: 40px;
+    vertical-align: middle;
+}
+.collection{
+    border: none;
+}
+.box-profil{
+    display: flex;
+}
+.searchfriend{
+    display: flex;
+    justify-content: space-between;
+}
+#seachbuttom{
+    border-radius: 100%;
+}
+.my-checkbox.filled-in:checked + span:not(.lever):after {
+    top: 0;
+  
+    width: 20px;
+  
+    height: 20px;
+  
+    border: 2px solid #01579b;
+  
+    background-color: #01579b;
+  
+    z-index: 0;
+  }
+  #seach-friend{
+    display: flex;
+  }
