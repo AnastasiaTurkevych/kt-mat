@@ -38,3 +38,30 @@
   #seach-friend{
     display: flex;
   }
+  .send{
+    text-decoration: none;
+  }
+ #card-prof{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .imgpro{
+    width: 30%;
+  }
+  .infoprofil{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .content
+  {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .inner{
+    width: 40%;
+  }
