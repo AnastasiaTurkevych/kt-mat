@@ -65,3 +65,9 @@
   .inner{
     width: 40%;
   }
+  .box-news{
+    display: flex;
+  }
+  .info{
+    display: flex;
+  }
