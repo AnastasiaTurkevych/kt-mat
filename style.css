@@ -18,6 +18,7 @@
 .searchfriend{
     display: flex;
     justify-content: space-between;
+    margin-top: 10px;
 }
 #seachbuttom{
     border-radius: 100%;
@@ -71,3 +72,19 @@
   .info{
     display: flex;
   }
+.info>img{
+    width: 10%;
+}
+.blokimg{
+    display: flex;
+    justify-content: space-around;
+}
+    .blokimg>img{
+        width: 22%;
+    }
+    .imgsmall{
+        height: 10%;
+    }
+    .card-content{
+        padding: 20px;
+    }
