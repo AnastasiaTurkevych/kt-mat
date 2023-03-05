@@ -119,3 +119,25 @@
   width: 100%;
  
 }
+.info2{
+  width: 100%;
+  display: flex;
+}
+.info2>img{
+  width: 90px;
+  height: 90px;
+  
+}
+.border{
+  border: 1px solid rgba(128, 128, 128, 0.296);
+}
+.plus2{
+  padding-top: 20px;
+}
+.ava{
+  display: flex;
+}
+.endcol>.end{
+  align-self: flex-end;
+  width: 100%;
+}
