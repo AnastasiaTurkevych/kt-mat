@@ -88,3 +88,18 @@
     .card-content{
         padding: 20px;
     }
+    .birthday{
+      width: 30%;
+      padding: 0;
+    }
+
+.tr{
+  border: none;
+}
+.td{
+  padding: 0;
+}
+#card1{
+  padding: 0;
+
+}
