@@ -103,3 +103,19 @@
   padding: 0;
 
 }
+.plus{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.data{
+  display: flex;
+}
+.data>p{
+  padding-left: 20px;
+}
+.opass{
+  background-color: black;
+  opacity: 50%;
+  width: 100%;
+ 
+}
